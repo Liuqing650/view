@@ -17,4 +17,4 @@ https://liuqing650.github.io/view/g6/树形图效果.png
 
 **html2canvas**: https://liuqing650.github.io/view/js/html2canvas
 
-**树型图CVS**: https://liuqing650.github.io/view/treeFlare.csv
+**树型图CVS**: https://liuqing650.github.io/view/cvs/treeFlare.csv
