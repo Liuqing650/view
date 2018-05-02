@@ -15,4 +15,6 @@ https://liuqing650.github.io/view/g6/树形图效果.png
 
 ## 其他静态文件
 
-**html2canvas**: https://github.com/Liuqing650/view/tree/master/js/html2canvas
+**html2canvas**: https://github.com/Liuqing650/view/js/html2canvas
+
+**树型图CVS**: https://github.com/Liuqing650/view/cvs/treeFlare.csv
